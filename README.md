@@ -17,3 +17,6 @@ LINK= https://discordpy.readthedocs.io/en/stable/ext/commands/api.html#
 
 - Discord:  pip install Discord
 - Asyncio: pip install asyncio
+
+If you had problems or errors in the code u can contact me on my Discord:
+ - $Molin4#8376
